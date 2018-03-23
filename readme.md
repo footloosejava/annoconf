@@ -1,10 +1,10 @@
-# ANNOCONF: Combining Annotations and Configurations
+# annoconf - the Friendly way to Combine Annotations and Configurations
 
-Easily create injectable properties from both Enums and Classes with built-in Annotation support.
+Quickly create injectable properties from both Enums and Classes with built-in Annotation support.
 
 The included INIConfiguration allows for querying for values from INI files as well as manually set properties in your program. 
 
-This was designed to work  well with Guice and other dependency injection frameworks and then have automatic type conversion for constants!
+This was designed to work well with Guice and other dependency injection frameworks and then have automatic type conversion for constants!
 
 ## Enums that extend Configurable
 
